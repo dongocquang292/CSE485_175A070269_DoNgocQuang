@@ -1,0 +1,10 @@
+tr,
+th,
+table {
+    border: 1px solid red;
+}
+
+tbody,
+th {
+    border: 1px solid red;
+}
